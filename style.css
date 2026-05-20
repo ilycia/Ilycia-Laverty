@@ -30,6 +30,12 @@ body {
   z-index: 9999;
 }
 
+#site-name,
+#search-container,
+#menu {
+  pointer-events: auto;
+}
+
 #site-name {
   color: white;
   font-size: 18px;
