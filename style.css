@@ -9,7 +9,7 @@ body {
   width: 100vw;
   height: 100vh;
 
-  font-family: Arial, sans-serif;
+  font-family: , sans-serif;
 
   background: #4a3428;
 
@@ -32,7 +32,7 @@ body {
 
 #site-name {
   color: white;
-  font-size: 32px;
+  font-size: 44px;
 }
 
 #search {
