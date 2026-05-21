@@ -52,14 +52,6 @@ body {
   pointer-events: auto;
 }
 
-/* RE-ENABLE INTERACTION */
-
-#site-name,
-#search-container,
-#menu {
-  pointer-events: auto;
-}
-
 /* SITE NAME */
 
 #site-name {
