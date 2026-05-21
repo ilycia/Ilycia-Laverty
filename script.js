@@ -41,8 +41,11 @@ function renderWorks(works) {
     workEl.appendChild(img);
 
     workEl.addEventListener("click", () => {
-      window.location.href = `/projects/${work.project}/`;
-    });
+
+  if (hasMoved) return;
+
+  window.location.href = `/projects/${work.project}/`;
+});
 
     enableDrag(workEl);
 
