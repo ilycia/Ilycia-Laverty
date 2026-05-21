@@ -49,12 +49,20 @@ body {
 /* SITE NAME */
 
 #site-name {
+  position: fixed;
+
+  top: 24px;
+  left: 24px;
+
+  z-index: 9999;
+
   font-family: 'ILDTitle', sans-serif;
 
   color: rgba(255,255,255,0.92);
 
   font-size: 33px;
   font-weight: 500;
+
   letter-spacing: 0.02em;
 
   cursor: pointer;
