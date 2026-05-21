@@ -54,7 +54,15 @@ body {
 #site-name,
 #search-container,
 #menu {
-  pointer-events: auto;
+  color: rgba(255,255,255,0.92);
+
+  font-size: 18px;
+
+  cursor: pointer;
+
+  user-select: none;
+
+  margin-left: 12px;
 }
 
 /* SITE NAME */
