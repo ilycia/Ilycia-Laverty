@@ -72,9 +72,11 @@ element.addEventListener("mousedown", (e) => {
     element.style.zIndex = 9999;
   });
 
-  document.addEventListener("mousemove", (e) => {
+document.addEventListener("mousemove", (e) => {
 
-    if (!isDragging) return;
+  if (!isDragging) return;
+
+  hasMoved = true;
 
     let x = e.clientX - offsetX;
     let y = e.clientY - offsetY;
