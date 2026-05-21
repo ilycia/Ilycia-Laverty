@@ -37,8 +37,9 @@ body {
   position: fixed;
 
   top: 24px;
- left: 24px;
-width: calc(100% - 48px);
+  left: 24px;
+
+  width: calc(100% - 48px);
 
   z-index: 9999;
 
@@ -46,9 +47,9 @@ width: calc(100% - 48px);
   justify-content: space-between;
   align-items: center;
 
-  pointer-events: none;
-
   cursor: grab;
+
+  pointer-events: auto;
 }
 
 /* RE-ENABLE INTERACTION */
