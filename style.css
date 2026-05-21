@@ -77,11 +77,22 @@ body {
 
 #search-container {
   display: flex;
-  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 420px;
+
+  padding: 6px 10px 6px 18px;
+
+  border-radius: 999px;
+
+  background: rgba(255,255,255,0.12);
+
+  backdrop-filter: blur(12px);
 
   flex: 1;
+  max-width: 420px;
 }
-
 #search {
   width: 320px;
 
