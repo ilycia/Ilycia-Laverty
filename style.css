@@ -33,19 +33,13 @@ body {
 
 /* FLOATING TOP BAR */
 
-#topbar {
+#toolbox {
   position: fixed;
 
   top: 24px;
-  left: 24px;
-
-  width: calc(100% - 48px);
+  right: 24px;
 
   z-index: 9999;
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 
   cursor: grab;
 
