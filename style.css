@@ -70,6 +70,8 @@ body {
   cursor: pointer;
 
   user-select: none;
+
+  text-decoration: none;
 }
 
 /* SEARCH */
