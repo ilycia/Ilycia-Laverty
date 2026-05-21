@@ -95,7 +95,7 @@ function enableDrag(element) {
 
 /* MAKE TOPBAR DRAGGABLE */
 
-enableDrag(topbar);
+enableDrag(toolbox);
 
 /* START */
 
