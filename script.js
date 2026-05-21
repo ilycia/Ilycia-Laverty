@@ -56,6 +56,7 @@ function renderWorks(works) {
 function enableDrag(element) {
 
   let isDragging = false;
+  let hasMoved = false;
 
   let offsetX = 0;
   let offsetY = 0;
