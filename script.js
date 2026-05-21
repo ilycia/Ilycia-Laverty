@@ -61,9 +61,10 @@ function enableDrag(element) {
   let offsetX = 0;
   let offsetY = 0;
 
-  element.addEventListener("mousedown", (e) => {
+element.addEventListener("mousedown", (e) => {
 
-    isDragging = true;
+  isDragging = true;
+  hasMoved = false;
 
     offsetX = e.clientX - element.offsetLeft;
     offsetY = e.clientY - element.offsetTop;
