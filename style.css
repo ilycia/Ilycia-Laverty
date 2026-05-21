@@ -37,8 +37,8 @@ body {
   position: fixed;
 
   top: 24px;
-  left: 24px;
-  right: 24px;
+ left: 24px;
+width: calc(100% - 48px);
 
   z-index: 9999;
 
