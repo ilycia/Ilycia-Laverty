@@ -47,6 +47,8 @@ body {
   align-items: center;
 
   pointer-events: none;
+
+  cursor: grab;
 }
 
 /* RE-ENABLE INTERACTION */
