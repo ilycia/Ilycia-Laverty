@@ -44,6 +44,8 @@ body {
   cursor: grab;
 
   pointer-events: auto;
+
+  user-select: none;
 }
 
 /* SITE NAME */
