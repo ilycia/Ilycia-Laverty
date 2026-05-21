@@ -1,5 +1,5 @@
 const table = document.getElementById("table");
-const topbar = document.getElementById("topbar");
+const toolbox = document.getElementById("toolbox");
 
 /* LOAD WORKS */
 
