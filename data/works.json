@@ -3,16 +3,16 @@
     "id": "Overthinking",
     "title": "Overthinking",
 
-"xMin": 38,
-"xMax": 46,
+"xMin": 66,
+"xMax": 70,
 
-"yMin": 36,
-"yMax": 44,
+"yMin": 40,
+"yMax": 46,
 
 "width": 380,
 
-"rotationMin": -7,
-"rotationMax": -2,
+"rotationMin": 2,
+"rotationMax": 5,
     
 "z": 5,
     
@@ -40,18 +40,18 @@
     "id": "City tree",
     "title": "City tree",
 
-"xMin": 18,
-"xMax": 24,
+"xMin": 58,
+"xMax": 62,
 
-"yMin": 34,
-"yMax": 42,
+"yMin": 30,
+"yMax": 36,
 
 "width": 340,
 
-"rotationMin": -12,
-"rotationMax": -6,
+"rotationMin": -5,
+"rotationMax": -2,
     
-"z": 6,
+"z": 10,
     
     "type": "photography",
     "year": 2014,
@@ -76,18 +76,18 @@
     "id": "AIO revisited 001",
     "title": "An Intervening Opportunity revisited",
 
-"xMin": 54,
-"xMax": 62,
+"xMin": 56,
+"xMax": 60,
 
-"yMin": 18,
-"yMax": 26,
+"yMin": 56,
+"yMax": 62,
 
 "width": 620,
 
-"rotationMin": -10,
+"rotationMin": -7,
 "rotationMax": -4,
     
-"z": 3,
+"z": 4,
     
     "type": "architecture",
     "year": 2026,
