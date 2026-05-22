@@ -25,18 +25,28 @@ function renderWorks(works) {
     const img = document.createElement("img");
     img.src = work.image;
 
-    const x = Math.random() * 60 + 10;
-    const y = Math.random() * 60 + 10;
+const x =
+  Math.random() * (work.xMax - work.xMin)
+  + work.xMin;
 
-    workEl.style.left = `${x}%`;
-    workEl.style.top = `${y}%`;
+const y =
+  Math.random() * (work.yMax - work.yMin)
+  + work.yMin;
 
-    const widths = [280, 340, 420, 500];
-    const width = widths[Math.floor(Math.random() * widths.length)];
+workEl.style.left = `${x}%`;
+workEl.style.top = `${y}%`;
 
-    workEl.style.width = `${width}px`;
+workEl.style.width = `${work.width}px`;
 
-    workEl.style.zIndex = index;
+const rotation =
+  Math.random() *
+  (work.rotationMax - work.rotationMin)
+  + work.rotationMin;
+
+workEl.style.transform =
+  `rotate(${rotation}deg)`;
+
+workEl.style.zIndex = work.z;
 
     workEl.appendChild(img);
 
