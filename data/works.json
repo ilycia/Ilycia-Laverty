@@ -2,6 +2,20 @@
   {
     "id": "AIO revisited 001",
     "title": "An Intervening Opportunity revisited",
+
+    "xMin": 34,
+"xMax": 42,
+
+"yMin": 2,
+"yMax": 6,
+
+"width": 430,
+
+"rotationMin": -4,
+"rotationMax": 2,
+
+"z": 3
+    
     "type": "architecture",
     "year": 2026,
     "status": "evolving",
@@ -20,6 +34,20 @@
   {
     "id": "Alice Thinking - Overthinking 001",
     "title": "Overthinking",
+
+    "xMin": 62,
+"xMax": 70,
+
+"yMin": 62,
+"yMax": 70,
+
+"width": 380,
+
+"rotationMin": -5,
+"rotationMax": 5,
+
+"z": 5
+    
     "type": "art",
     "year": 2024,
     "status": "resolved",
@@ -40,6 +68,20 @@
   {
     "id": "City tree",
     "title": "City tree",
+
+    "xMin": 36,
+"xMax": 44,
+
+"yMin": 72,
+"yMax": 78,
+
+"width": 320,
+
+"rotationMin": -6,
+"rotationMax": 4,
+
+"z": 6
+    
     "type": "photography",
     "year": 2014,
     "status": "evolving",
@@ -58,6 +100,20 @@
   {
     "id": "Emotion",
     "title": "Emotion",
+
+    "xMin": 2,
+"xMax": 8,
+
+"yMin": 54,
+"yMax": 62,
+
+"width": 520,
+
+"rotationMin": -3,
+"rotationMax": 2,
+
+"z": 1
+    
     "type": "art",
     "year": 2024,
     "status": "evolving",
@@ -76,6 +132,20 @@
   {
     "id": "Femme - Nude series 001",
     "title": "Femme",
+
+    "xMin": 84,
+"xMax": 88,
+
+"yMin": 4,
+"yMax": 10,
+
+"width": 220,
+
+"rotationMin": -1,
+"rotationMax": 3,
+
+"z": 2
+    
     "type": "art",
     "year": 2024,
     "status": "resolved",
@@ -93,6 +163,20 @@
   {
     "id": "ICU",
     "title": "ICU",
+
+    "xMin": 34,
+"xMax": 40,
+
+"yMin": 30,
+"yMax": 38,
+
+"width": 480,
+
+"rotationMin": -2,
+"rotationMax": 4,
+
+"z": 4
+    
     "type": "process",
     "year": 2026,
     "status": "evolving",
@@ -110,6 +194,20 @@
   {
     "id": "Jetty",
     "title": "Jetty",
+
+    "xMin": 56,
+"xMax": 64,
+
+"yMin": 10,
+"yMax": 18,
+
+"width": 470,
+
+"rotationMin": 6,
+"rotationMax": 12,
+
+"z": 8
+    
     "type": "photography",
     "year": 2026,
     "status": "evolving",
@@ -129,14 +227,18 @@
   "id": "Place making",
   "title": "Place making",
 
-  "x": 8,
-  "y": 6,
+"xMin": 4,
+"xMax": 10,
 
-  "width": 520,
+"yMin": 5,
+"yMax": 10,
 
-  "rotation": -8,
+"width": 520,
 
-  "z": 3,
+"rotationMin": -10,
+"rotationMax": -4,
+
+"z": 7
 
   "type": "art",
   "year": 2022,
