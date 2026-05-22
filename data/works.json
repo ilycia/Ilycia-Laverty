@@ -43,8 +43,8 @@
 
 "width": 380,
 
-"rotationMin": -2,
-"rotationMax": -8,
+"rotationMin": -7,
+"rotationMax": -2,
     
 "z": 5,
     
@@ -141,8 +141,8 @@
 
 "width": 220,
 
-"rotationMin": -1,
-"rotationMax": 3,
+"rotationMin": -8,
+"rotationMax": -2,
     
 "z": 2,
     
