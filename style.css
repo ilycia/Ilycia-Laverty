@@ -27,15 +27,14 @@ body {
 
   font-family: Arial, sans-serif;
 
-  /* TABLE COLOUR */
-background-image: url('./assets/images/table-background.webp');
+  background-image: url('./assets/images/table-background.webp');
 
-background-size: cover;
-background-position: center;
+  background-size: cover;
+  background-position: center;
 
-background-repeat: no-repeat;
+  background-repeat: no-repeat;
 
-background-color: #2f2f2f;
+  background-color: #2f2f2f;
 }
 
 /* FLOATING TOP BAR */
