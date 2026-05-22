@@ -3,11 +3,11 @@
     "id": "Overthinking",
     "title": "Overthinking",
 
-    "xMin": 62,
-"xMax": 70,
+"xMin": 38,
+"xMax": 46,
 
-"yMin": 62,
-"yMax": 70,
+"yMin": 36,
+"yMax": 44,
 
 "width": 380,
 
@@ -40,11 +40,11 @@
     "id": "City tree",
     "title": "City tree",
 
-    "xMin": 36,
-"xMax": 44,
+"xMin": 18,
+"xMax": 24,
 
-"yMin": 72,
-"yMax": 78,
+"yMin": 34,
+"yMax": 42,
 
 "width": 340,
 
@@ -76,11 +76,11 @@
     "id": "AIO revisited 001",
     "title": "An Intervening Opportunity revisited",
 
-    "xMin": 34,
-"xMax": 42,
+"xMin": 54,
+"xMax": 62,
 
-"yMin": 2,
-"yMax": 6,
+"yMin": 18,
+"yMax": 26,
 
 "width": 620,
 
