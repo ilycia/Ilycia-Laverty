@@ -20,11 +20,16 @@
     "year": 2026,
     "status": "evolving",
 
-    "keywords": [
-      "regenerative",
-      "plan",
-      "ecology"
-    ],
+"keywords": [
+  "architecture",
+  "regenerative",
+  "competition",
+  "house",
+  "spatial",
+  "ecology",
+  "concept",
+  "drawing"
+]
 
     "image": "./assets/images/AIO revisited 001.webp",
 
@@ -52,13 +57,16 @@
     "year": 2024,
     "status": "resolved",
 
-    "keywords": [
-      "painting",
-      "Alice thinking",
-      "green",
-      "blue",
-      "circle"
-    ],
+"keywords": [
+  "art",
+  "painting",
+  "Alice thinking",
+  "emotion",
+  "blue",
+  "green",
+  "circle",
+  "abstract"
+]
 
     "image": "./assets/images/Alice Thinking - Overthinking 001.webp",
 
@@ -86,11 +94,15 @@
     "year": 2014,
     "status": "evolving",
 
-    "keywords": [
-      "black and white",
-      "photography",
-      "Amsterdam"
-    ],
+"keywords": [
+  "photography",
+  "black and white",
+  "tree",
+  "city",
+  "Amsterdam",
+  "urban",
+  "urban landscape"
+]
 
     "image": "./assets/images/City tree.webp",
 
