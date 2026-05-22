@@ -1,42 +1,5 @@
 [
   {
-    "id": "AIO revisited 001",
-    "title": "An Intervening Opportunity revisited",
-
-    "xMin": 34,
-"xMax": 42,
-
-"yMin": 2,
-"yMax": 6,
-
-"width": 620,
-
-"rotationMin": -10,
-"rotationMax": -4,
-    
-"z": 3,
-    
-    "type": "architecture",
-    "year": 2026,
-    "status": "evolving",
-
-"keywords": [
-  "architecture",
-  "regenerative",
-  "competition",
-  "house",
-  "spatial",
-  "ecology",
-  "concept",
-  "drawing"
-],
-
-    "image": "./assets/images/AIO revisited 001.webp",
-
-    "project": "architecture"
-  },
-
-  {
     "id": "Overthinking",
     "title": "Overthinking",
 
@@ -107,6 +70,43 @@
     "image": "./assets/images/City tree.webp",
 
     "project": "art"
+  },
+  
+    {
+    "id": "AIO revisited 001",
+    "title": "An Intervening Opportunity revisited",
+
+    "xMin": 34,
+"xMax": 42,
+
+"yMin": 2,
+"yMax": 6,
+
+"width": 620,
+
+"rotationMin": -10,
+"rotationMax": -4,
+    
+"z": 3,
+    
+    "type": "architecture",
+    "year": 2026,
+    "status": "evolving",
+
+"keywords": [
+  "architecture",
+  "regenerative",
+  "competition",
+  "house",
+  "spatial",
+  "ecology",
+  "concept",
+  "drawing"
+],
+
+    "image": "./assets/images/AIO revisited 001.webp",
+
+    "project": "architecture"
   }
   
 ]
