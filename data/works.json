@@ -9,7 +9,7 @@
 "yMin": 40,
 "yMax": 46,
 
-"width": 380,
+"width": 480,
 
 "rotationMin": 2,
 "rotationMax": 5,
@@ -46,7 +46,7 @@
 "yMin": 30,
 "yMax": 36,
 
-"width": 340,
+"width": 440,
 
 "rotationMin": -5,
 "rotationMax": -2,
@@ -82,12 +82,12 @@
 "yMin": 56,
 "yMax": 62,
 
-"width": 620,
+"width": 720,
 
 "rotationMin": -7,
 "rotationMax": -4,
     
-"z": 4,
+"z": 6,
     
     "type": "architecture",
     "year": 2026,
