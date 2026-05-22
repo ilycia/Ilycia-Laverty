@@ -14,7 +14,7 @@
 "rotationMin": 2,
 "rotationMax": 5,
     
-"z": -28,
+"z": 5,
     
     "type": "art",
     "year": 2024,
@@ -51,7 +51,7 @@
 "rotationMin": -5,
 "rotationMax": -2,
     
-"z": 15,
+"z": 10,
     
     "type": "photography",
     "year": 2014,
@@ -87,7 +87,7 @@
 "rotationMin": -7,
 "rotationMax": -4,
     
-"z": 9,
+"z": 5,
     
     "type": "architecture",
     "year": 2026,
