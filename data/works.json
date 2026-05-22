@@ -110,6 +110,16 @@
   {
     "id": "Jetty",
     "title": "Jetty",
+
+    "x": 13,
+"y": 11,
+
+"width": 525,
+
+"rotation": -13,
+
+"z": 8,
+    
     "type": "photography",
     "year": 2026,
     "status": "evolving",
@@ -126,19 +136,29 @@
   },
 
   {
-    "id": "Place making",
-    "title": "Place making",
-    "type": "art",
-    "year": 2022,
-    "status": "resolved",
+  "id": "Place making",
+  "title": "Place making",
 
-    "keywords": [
-      "painting",
-      "circle"
-    ],
+  "x": 8,
+  "y": 6,
 
-    "image": "./assets/images/Place making.webp",
+  "width": 520,
 
-    "project": "art"
-  }
+  "rotation": -8,
+
+  "z": 3,
+
+  "type": "art",
+  "year": 2022,
+  "status": "resolved",
+
+  "keywords": [
+    "painting",
+    "circle"
+  ],
+
+  "image": "./assets/images/Place making.webp",
+
+  "project": "art"
+}
 ]
