@@ -1,1 +1,144 @@
+[
+  {
+    "id": "AIO revisited 001",
+    "title": "An Intervening Opportunity revisited",
+    "type": "architecture",
+    "year": 2026,
+    "status": "evolving",
 
+    "keywords": [
+      "regenerative",
+      "plan",
+      "ecology"
+    ],
+
+    "image": "./assets/images/AIO revisited 001.webp",
+
+    "project": "architecture"
+  },
+
+  {
+    "id": "Alice Thinking - Overthinking 001",
+    "title": "Overthinking",
+    "type": "art",
+    "year": 2024,
+    "status": "resolved",
+
+    "keywords": [
+      "painting",
+      "Alice thinking",
+      "green",
+      "blue",
+      "circle"
+    ],
+
+    "image": "./assets/images/Alice Thinking - Overthinking 001.webp",
+
+    "project": "art"
+  },
+
+  {
+    "id": "City tree",
+    "title": "City tree",
+    "type": "photography",
+    "year": 2014,
+    "status": "evolving",
+
+    "keywords": [
+      "black and white",
+      "photography",
+      "Amsterdam"
+    ],
+
+    "image": "./assets/images/City tree.webp",
+
+    "project": "art"
+  },
+
+  {
+    "id": "Emotion",
+    "title": "Emotion",
+    "type": "art",
+    "year": 2024,
+    "status": "evolving",
+
+    "keywords": [
+      "life drawing",
+      "sketch",
+      "pencil"
+    ],
+
+    "image": "./assets/images/Emotion.webp",
+
+    "project": "process"
+  },
+
+  {
+    "id": "Femme - Nude series 001",
+    "title": "Femme",
+    "type": "art",
+    "year": 2024,
+    "status": "resolved",
+
+    "keywords": [
+      "painting",
+      "emotion"
+    ],
+
+    "image": "./assets/images/Femme - Nude series 001.webp",
+
+    "project": "art"
+  },
+
+  {
+    "id": "ICU",
+    "title": "ICU",
+    "type": "process",
+    "year": 2026,
+    "status": "evolving",
+
+    "keywords": [
+      "sketch",
+      "process"
+    ],
+
+    "image": "./assets/images/ICU.webp",
+
+    "project": "process"
+  },
+
+  {
+    "id": "Jetty",
+    "title": "Jetty",
+    "type": "photography",
+    "year": 2026,
+    "status": "evolving",
+
+    "keywords": [
+      "water",
+      "black and white",
+      "photography"
+    ],
+
+    "image": "./assets/images/Jetty.webp",
+
+    "project": "art"
+  },
+
+  {
+    "id": "Place making",
+    "title": "Place making",
+    "type": "art",
+    "year": 2022,
+    "status": "resolved",
+
+    "keywords": [
+      "painting",
+      "circle"
+    ],
+
+    "image": "./assets/images/Place making.webp",
+
+    "project": "art"
+  }
+]
