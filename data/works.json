@@ -11,10 +11,10 @@
 
 "width": 430,
 
-"rotationMin": -4,
-"rotationMax": 2,
-
-"z": 3
+"rotationMin": -10,
+"rotationMax": -4,
+    
+"z": 3,
     
     "type": "architecture",
     "year": 2026,
@@ -43,10 +43,10 @@
 
 "width": 380,
 
-"rotationMin": -5,
-"rotationMax": 5,
-
-"z": 5
+"rotationMin": -2,
+"rotationMax": -8,
+    
+"z": 5,
     
     "type": "art",
     "year": 2024,
@@ -77,10 +77,10 @@
 
 "width": 320,
 
-"rotationMin": -6,
-"rotationMax": 4,
-
-"z": 6
+"rotationMin": -12,
+"rotationMax": -6,
+    
+"z": 6,
     
     "type": "photography",
     "year": 2014,
@@ -109,10 +109,10 @@
 
 "width": 520,
 
-"rotationMin": -3,
-"rotationMax": 2,
-
-"z": 1
+"rotationMin": -7,
+"rotationMax": -1,
+    
+"z": 1,
     
     "type": "art",
     "year": 2024,
@@ -143,8 +143,8 @@
 
 "rotationMin": -1,
 "rotationMax": 3,
-
-"z": 2
+    
+"z": 2,
     
     "type": "art",
     "year": 2024,
@@ -172,10 +172,10 @@
 
 "width": 480,
 
-"rotationMin": -2,
-"rotationMax": 4,
-
-"z": 4
+"rotationMin": -14,
+"rotationMax": -8,
+    
+"z": 4,
     
     "type": "process",
     "year": 2026,
@@ -203,10 +203,10 @@
 
 "width": 470,
 
-"rotationMin": 6,
-"rotationMax": 12,
-
-"z": 8
+"rotationMin": -9,
+"rotationMax": -3,
+    
+"z": 8,
     
     "type": "photography",
     "year": 2026,
@@ -235,10 +235,10 @@
 
 "width": 520,
 
-"rotationMin": -10,
-"rotationMax": -4,
-
-"z": 7
+"rotationMin": -8,
+"rotationMax": -2,
+    
+"z": 7,
 
   "type": "art",
   "year": 2022,
