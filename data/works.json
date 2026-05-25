@@ -1,7 +1,7 @@
 [
   {
-    "id": "Overthinking",
-    "title": "Overthinking",
+    "id": "Emotion",
+    "title": "Emotion",
 
 "xMin": 14,
 "xMax": 40,
@@ -22,13 +22,12 @@
 
 "keywords": [
   "art",
-  "painting",
-  "Alice thinking",
+  "drawing",
+  "hand drawing",
   "emotion",
-  "blue",
-  "green",
-  "circle",
-  "abstract"
+  "sketching",
+  "pencil drawing",
+  "face"
 ],
 
     "image": "./assets/images/Overthinking.webp",
@@ -37,8 +36,8 @@
   },
 
   {
-    "id": "City tree",
-    "title": "City tree",
+    "id": "BFD plan 002",
+    "title": "Bio Frequency Design House",
 
 "xMin": 38,
 "xMax": 42,
@@ -53,23 +52,24 @@
     
 "z": 10,
     
-    "type": "photography",
+    "type": "architecture",
     "year": 2014,
     "status": "evolving",
 
 "keywords": [
-  "photography",
-  "black and white",
-  "tree",
-  "city",
-  "Amsterdam",
-  "urban",
-  "urban landscape"
+  "ecology",
+  "healthy homes",
+  "house plan",
+  "regenerative",
+  "green",
+  "sustainable",
+  "architecture",
+  "drawing"
 ],
 
-    "image": "./assets/images/City tree.webp",
+    "image": "./assets/images/BFD plan 002.webp",
 
-    "project": "art"
+    "project": "architecture"
   },
   
     {
