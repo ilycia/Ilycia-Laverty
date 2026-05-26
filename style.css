@@ -56,28 +56,18 @@ body {
 
 /* SITE NAME */
 
-#site-name {
-  position: fixed;
+#site-subtitle {
 
-  top: 24px;
-  left: 24px;
+  font-family: Arial, sans-serif;
 
-  z-index: 9999;
+  font-size: 12px;
 
-  font-family: 'ILDTitle', sans-serif;
+  margin-top: 4px;
 
-  color: rgba(255,255,255,0.92);
+  letter-spacing: 0.08em;
 
-  font-size: 33px;
-  font-weight: 500;
+  color: rgba(255,255,255,0.7);
 
-  letter-spacing: 0.02em;
-
-  cursor: pointer;
-
-  user-select: none;
-
-  text-decoration: none;
 }
 
 /* SEARCH */
