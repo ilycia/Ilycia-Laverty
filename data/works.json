@@ -30,7 +30,7 @@
   "face"
 ],
 
-    "image": "./assets/images/Overthinking.webp",
+    "image": "./assets/images/Emotion.webp",
 
     "project": "art"
   },
@@ -73,7 +73,7 @@
   },
   
     {
-    "id": "AIO ",
+    "id": "AIO",
     "title": "An Intervening Opportunity revisited",
 
 "xMin": 40,
@@ -104,7 +104,7 @@
   "drawing"
 ],
 
-    "image": "./assets/images/AIO .webp",
+    "image": "./assets/images/AIO.webp",
 
     "project": "architecture"
   }
