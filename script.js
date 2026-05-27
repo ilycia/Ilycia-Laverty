@@ -1,119 +1,111 @@
-const table = document.getElementById("table");
-const toolbox = document.getElementById("toolbox");
+[
+  {
+    "id": "Emotion",
+    "title": "Emotion",
 
-/* LOAD WORKS */
+    "xMin": 14,
+    "xMax": 40,
 
-async function loadWorks() {
+    "yMin": 50,
+    "yMax": 56,
 
-  const response = await fetch("./data/works.json");
-  const works = await response.json();
+    "width": 480,
 
-  renderWorks(works);
-}
+    "rotationMin": 2,
+    "rotationMax": 5,
 
-/* RENDER WORKS */
+    "z": 5,
 
-function renderWorks(works) {
+    "type": "art",
+    "year": 2024,
+    "status": "resolved",
 
-  table.innerHTML = "";
+    "keywords": [
+      "art",
+      "drawing",
+      "hand drawing",
+      "emotion",
+      "sketching",
+      "pencil drawing",
+      "face"
+    ],
 
-  works.forEach((work, index) => {
+    "image": "./assets/images/Emotion.webp",
 
-    const workEl = document.createElement("div");
-    workEl.classList.add("work");
+    "project": "art"
+  },
 
-    const img = document.createElement("img");
-    img.src = work.image;
+  {
+    "id": "BFD plan 002",
+    "title": "Bio Frequency Design House",
 
-const x =
-  Math.random() * (work.xMax - work.xMin)
-  + work.xMin;
+    "xMin": 38,
+    "xMax": 42,
 
-const y =
-  Math.random() * (work.yMax - work.yMin)
-  + work.yMin;
+    "yMin": 40,
+    "yMax": 46,
 
-workEl.style.left = `${x}%`;
-workEl.style.top = `${y}%`;
+    "width": 440,
 
-workEl.style.width = `${work.width}px`;
+    "rotationMin": -5,
+    "rotationMax": -2,
 
-const rotation =
-  Math.random() *
-  (work.rotationMax - work.rotationMin)
-  + work.rotationMin;
+    "z": 10,
 
-workEl.style.transform =
-  `rotate(${rotation}deg)`;
+    "type": "architecture",
+    "year": 2014,
+    "status": "evolving",
 
-workEl.style.zIndex = work.z;
+    "keywords": [
+      "ecology",
+      "healthy homes",
+      "house plan",
+      "regenerative",
+      "green",
+      "sustainable",
+      "architecture",
+      "drawing"
+    ],
 
-    workEl.appendChild(img);
+    "image": "./assets/images/BFD plan 002.webp",
 
-    workEl.addEventListener("click", () => {
+    "project": "architecture"
+  },
 
-  if (hasMoved) return;
+  {
+    "id": "AIO",
+    "title": "An Intervening Opportunity revisited",
 
-  window.location.href = `/projects/${work.project}/`;
-});
+    "xMin": 40,
+    "xMax": 46,
 
-    enableDrag(workEl);
+    "yMin": 30,
+    "yMax": 38,
 
-    table.appendChild(workEl);
+    "width": 720,
 
-  });
-}
+    "rotationMin": -7,
+    "rotationMax": -4,
 
-/* DRAG FUNCTION */
+    "z": 4,
 
-function enableDrag(element) {
+    "type": "architecture",
+    "year": 2026,
+    "status": "evolving",
 
-  let isDragging = false;
-  let hasMoved = false;
+    "keywords": [
+      "architecture",
+      "regenerative",
+      "green",
+      "environmental",
+      "spatial",
+      "ecology",
+      "concept",
+      "drawing"
+    ],
 
-  let offsetX = 0;
-  let offsetY = 0;
+    "image": "./assets/images/AIO.webp",
 
-element.addEventListener("mousedown", (e) => {
-
-  isDragging = true;
-  hasMoved = false;
-
-    offsetX = e.clientX - element.offsetLeft;
-    offsetY = e.clientY - element.offsetTop;
-
-    element.style.zIndex = 9999;
-  });
-
-document.addEventListener("mousemove", (e) => {
-
-  if (!isDragging) return;
-
-  hasMoved = true;
-
-    let x = e.clientX - offsetX;
-    let y = e.clientY - offsetY;
-
-    const maxX = window.innerWidth - element.offsetWidth;
-    const maxY = window.innerHeight - element.offsetHeight;
-
-    x = Math.max(0, Math.min(x, maxX));
-    y = Math.max(0, Math.min(y, maxY));
-
-    element.style.left = `${x}px`;
-    element.style.top = `${y}px`;
-
-  });
-
-  document.addEventListener("mouseup", () => {
-    isDragging = false;
-  });
-}
-
-/* MAKE TOPBAR DRAGGABLE */
-
-enableDrag(toolbox);
-
-/* START */
-
-loadWorks();
+    "project": "architecture"
+  }
+]
