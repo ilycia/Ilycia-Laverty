@@ -6,7 +6,7 @@
 "xMin": 14,
 "xMax": 40,
 
-"yMin": 70,
+"yMin": 68,
 "yMax": 76,
 
 "width": 720,
@@ -42,7 +42,7 @@
 "xMin": 38,
 "xMax": 42,
 
-"yMin": 60,
+"yMin": 50,
 "yMax": 66,
 
 "width": 720,
@@ -76,7 +76,7 @@
     "id": "AIO",
     "title": "An Intervening Opportunity revisited",
 
-"xMin": 40,
+"xMin": 30,
 "xMax": 46,
 
 "yMin": 40,
