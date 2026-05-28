@@ -6,8 +6,8 @@
 "xMin": 14,
 "xMax": 40,
 
-"yMin": 18,
-"yMax": 55,
+"yMin": 10,
+"yMax": 50,
 
 "width": 420,
 
@@ -43,7 +43,7 @@
 "xMax": 42,
 
 "yMin": 18,
-"yMax": 59,
+"yMax": 55,
 
 "width": 620,
 
@@ -79,8 +79,8 @@
 "xMin": 30,
 "xMax": 46,
 
-"yMin": 18,
-"yMax": 50,
+"yMin": 13,
+"yMax": 60,
 
 "width": 720,
 
