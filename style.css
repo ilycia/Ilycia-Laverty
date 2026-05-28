@@ -234,3 +234,60 @@ body {
     0 1px 3px rgba(0,0,0,0.08);
 
 }
+
+/* DROPDOWN MENU */
+
+#menu {
+
+position: relative;
+
+}
+
+#dropdown-menu {
+
+position: absolute;
+
+top: 36px;
+right: 0;
+
+display: none;
+
+flex-direction: column;
+
+gap: 12px;
+
+padding: 18px;
+
+min-width: 180px;
+
+border-radius: 18px;
+
+background: rgba(20,20,20,0.82);
+
+backdrop-filter: blur(14px);
+
+}
+
+#menu:hover #dropdown-menu {
+
+display: flex;
+
+}
+
+#dropdown-menu a {
+
+color: white;
+
+text-decoration: none;
+
+font-size: 14px;
+
+letter-spacing: 0.04em;
+
+}
+
+#dropdown-menu a:hover {
+
+opacity: 0.7;
+
+}
