@@ -16,8 +16,8 @@
     
 "z": 5,
     
-    "type": "photography",
-    "year": 2024,
+    "type": "Photography",
+    "year": 2022,
     "status": "resolved",
 
 "keywords": [
@@ -36,8 +36,8 @@
   },
 
   {
-    "id": "BFD plan 002",
-    "title": "Bio Frequency Design House",
+    "id": "Overthinking",
+    "title": "Alice Thinking Series - Overthinking",
 
 "xMin": 38,
 "xMax": 42,
@@ -45,31 +45,31 @@
 "yMin": 50,
 "yMax": 66,
 
-"width": 720,
+"width": 620,
 
 "rotationMin": -5,
 "rotationMax": -2,
     
 "z": 10,
     
-    "type": "architecture",
+    "type": "Art",
     "year": 2014,
-    "status": "evolving",
+    "status": "resolved",
 
 "keywords": [
-  "ecology",
-  "healthy homes",
-  "house plan",
-  "regenerative",
+  "acrylic on canvas",
+  "Alice Thinking Series",
   "green",
-  "sustainable",
-  "architecture",
-  "drawing"
+  "blue",
+  "green",
+  "900 x 900",
+  "abstract",
+  "painting"
 ],
 
-    "image": "./assets/images/BFD plan 002.webp",
+    "image": ".assets/images/Overthinking.webp",
 
-    "project": "architecture"
+    "project": "art"
   },
   
     {
