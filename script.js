@@ -1,111 +1,54 @@
-[
-  {
-    "id": "Emotion",
-    "title": "Emotion",
+function renderWorks(works) {
 
-    "xMin": 14,
-    "xMax": 40,
+  table.innerHTML = "";
 
-    "yMin": 50,
-    "yMax": 56,
+  works.forEach((work, index) => {
 
-    "width": 480,
+    const workEl = document.createElement("div");
+    workEl.classList.add("work");
 
-    "rotationMin": 2,
-    "rotationMax": 5,
+    const img = document.createElement("img");
+    img.src = work.image;
 
-    "z": 5,
+    const x =
+      Math.random() *
+      (work.xMax - work.xMin) +
+      work.xMin;
 
-    "type": "art",
-    "year": 2024,
-    "status": "resolved",
+    const y =
+      Math.random() *
+      (work.yMax - work.yMin) +
+      work.yMin;
 
-    "keywords": [
-      "art",
-      "drawing",
-      "hand drawing",
-      "emotion",
-      "sketching",
-      "pencil drawing",
-      "face"
-    ],
+    const rotation =
+      Math.random() *
+      (work.rotationMax - work.rotationMin) +
+      work.rotationMin;
 
-    "image": "./assets/images/Emotion.webp",
+    workEl.style.left = `${x}%`;
+    workEl.style.top = `${y}%`;
 
-    "project": "art"
-  },
+    workEl.style.width = `${work.width}px`;
 
-  {
-    "id": "BFD plan 002",
-    "title": "Bio Frequency Design House",
+    workEl.style.transform =
+      `rotate(${rotation}deg)`;
 
-    "xMin": 38,
-    "xMax": 42,
+    workEl.style.zIndex = work.z;
 
-    "yMin": 40,
-    "yMax": 46,
+    workEl.appendChild(img);
 
-    "width": 440,
+    workEl.addEventListener("click", () => {
 
-    "rotationMin": -5,
-    "rotationMax": -2,
+      highestZ++;
 
-    "z": 10,
+      workEl.style.zIndex = highestZ;
 
-    "type": "architecture",
-    "year": 2014,
-    "status": "evolving",
+    });
 
-    "keywords": [
-      "ecology",
-      "healthy homes",
-      "house plan",
-      "regenerative",
-      "green",
-      "sustainable",
-      "architecture",
-      "drawing"
-    ],
+    enableDrag(workEl);
 
-    "image": "./assets/images/BFD plan 002.webp",
+    table.appendChild(workEl);
 
-    "project": "architecture"
-  },
+  });
 
-  {
-    "id": "AIO",
-    "title": "An Intervening Opportunity revisited",
-
-    "xMin": 40,
-    "xMax": 46,
-
-    "yMin": 30,
-    "yMax": 38,
-
-    "width": 720,
-
-    "rotationMin": -7,
-    "rotationMax": -4,
-
-    "z": 4,
-
-    "type": "architecture",
-    "year": 2026,
-    "status": "evolving",
-
-    "keywords": [
-      "architecture",
-      "regenerative",
-      "green",
-      "environmental",
-      "spatial",
-      "ecology",
-      "concept",
-      "drawing"
-    ],
-
-    "image": "./assets/images/AIO.webp",
-
-    "project": "architecture"
-  }
-]
+}
