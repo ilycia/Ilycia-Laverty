@@ -1,7 +1,7 @@
 [
   {
-    "id": "Emotion",
-    "title": "Emotion",
+    "id": "Jetty.webp",
+    "title": "Jetty",
 
 "xMin": 14,
 "xMax": 40,
@@ -9,30 +9,30 @@
 "yMin": 68,
 "yMax": 76,
 
-"width": 720,
+"width": 420,
 
 "rotationMin": 2,
 "rotationMax": 5,
     
 "z": 5,
     
-    "type": "art",
+    "type": "photography",
     "year": 2024,
     "status": "resolved",
 
 "keywords": [
-  "art",
-  "drawing",
-  "hand drawing",
-  "emotion",
-  "sketching",
-  "pencil drawing",
-  "face"
+  "black and white",
+  "wharf",
+  "nature",
+  "boat",
+  "sea",
+  "seaside",
+  "water"
 ],
 
-    "image": "./assets/images/Emotion.webp",
+    "image": ".assets/images/Jetty.webp",
 
-    "project": "art"
+    "project": "photography"
   },
 
   {
