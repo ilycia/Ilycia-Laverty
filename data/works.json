@@ -26,11 +26,11 @@
   "nature",
   "boat",
   "sea",
-  "seaside",
+  "Herne Bay",
   "water"
 ],
 
-    "image": ".assets/images/Jetty.webp",
+    "image": "./assets/images/Jetty.webp",
 
     "project": "photography"
   },
@@ -67,7 +67,7 @@
   "painting"
 ],
 
-    "image": ".assets/images/Overthinking.webp",
+    "image": "./assets/images/Overthinking.webp",
 
     "project": "art"
   },
@@ -104,7 +104,7 @@
   "drawing"
 ],
 
-    "image": ".assets/images/AIO revisited 002.webp",
+    "image": "./assets/images/AIO revisited 002.webp",
 
     "project": "architecture"
   }
