@@ -3,8 +3,8 @@
     "id": "AIO001LP.webp",
     "title": "An Intervening Opportunity revisited",
 
-"xMin": 35,
-"xMax": 32,
+"xMin": 32,
+"xMax": 42,
 
 "yMin": 28,
 "yMax": 36,
@@ -302,8 +302,8 @@
 
 "width": 300,
 
-"rotationMin": 5,
-"rotationMax": 3,
+"rotationMin": 3,
+"rotationMax": 7,
     
 "z": 10,
     
@@ -373,7 +373,7 @@
 "width": 300,
 
 "rotationMin": 4,
-"rotationMax": 2,
+"rotationMax": 6,
     
 "z": 8,
     
@@ -404,8 +404,8 @@
 
 "width": 300,
 
-"rotationMin": 6,
-"rotationMax": 2,
+"rotationMin": 2,
+"rotationMax": 6,
     
 "z": 2,
     
