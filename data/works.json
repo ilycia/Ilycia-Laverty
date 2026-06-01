@@ -113,7 +113,7 @@
 
    {
     "id": "anylisingLP.webp",
-    "title": "La Jaunita site analysis",
+    "title": "La Juanita site analysis",
 
 "xMin": 32,
 "xMax": 39,
@@ -134,7 +134,7 @@
 
 "keywords": [
   "regenerative",
-  "La Jaunita",
+  "La Juanita",
   "process",
   "ecological",
   "sustainable",
@@ -360,8 +360,8 @@
   },
 
    {
-    "id": "LaJaunitaHouseLP.webp",
-    "title": "La Jaunita Competition",
+    "id": "LaJuanitaHouseLP.webp",
+    "title": "La Juanita Competition",
 
 "xMin": 40,
 "xMax": 50,
@@ -381,14 +381,14 @@
     "status": "evolving",
 
 "keywords": [
-  "La Jaunita",
+  "La Juanita",
   "competition",
   "architecture",
   "plan",
   "pre-design"
 ],
 
-    "image": "./assets/images/LaJaunitaHouseLP.webp",
+    "image": "./assets/images/LaJuanitaHouseLP.webp",
 
     "project": "competition"
   },
