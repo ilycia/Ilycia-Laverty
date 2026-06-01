@@ -1,7 +1,7 @@
 [
   {
     "id": "AIO001LP.webp",
-    "title": "AIO",
+    "title": "An Intervening Opportunity revisited",
 
 "xMin": 35,
 "xMax": 42,
@@ -16,9 +16,9 @@
     
 "z": 5,
     
-    "type": "Regenerative Architecture",
+    "type": "Architecture process",
     "year": 2022,
-    "status": "ongoing",
+    "status": "evolving",
 
 "keywords": [
   "river architecture",
@@ -32,94 +32,173 @@
 
     "image": "./assets/images/AIO001LP.webp",
 
-    "project": "Architecture"
+    "project": "Regenerative Architecture"
   },
 
   {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
+    "id": "AIO002LP.webp",
+    "title": "An Intervening Opportunity revisited",
 
-"xMin": 38,
-"xMax": 42,
+"xMin": 40,
+"xMax": 47,
 
-"yMin": 18,
-"yMax": 55,
+"yMin": 42,
+"yMax": 50,
 
-"width": 620,
+"width": 300,
 
 "rotationMin": -5,
 "rotationMax": -2,
     
 "z": 10,
     
-    "type": "Art",
-    "year": 2014,
-    "status": "resolved",
+    "type": "Architecture process",
+    "year": 2022,
+    "status": "evolving",
 
 "keywords": [
-  "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
-  "abstract",
-  "painting"
+  "river architecture",
+  "regenerative",
+  "nature",
+  "process",
+  "ecological",
+  "sustainable",
+  "Te Wahu Awa",
+  "site analysis"
 ],
 
-    "image": "./assets/images/Overthinking.webp",
+    "image": "./assets/images/AIO002LP.webp",
 
-    "project": "art"
+    "project": "An Intervening Opportunity revisited"
   },
   
     {
-    "id": "AIO revisited 002.webp",
+    "id": "AIO003LP.webp",
     "title": "An Intervening Opportunity revisited",
 
-"xMin": 30,
-"xMax": 46,
+"xMin": 45,
+"xMax": 52,
 
-"yMin": 13,
-"yMax": 60,
+"yMin": 35,
+"yMax": 43,
 
-"width": 720,
+"width": 300,
 
 "rotationMin": -7,
 "rotationMax": -4,
     
 "z": 4,
     
-    "type": "architecture",
-    "year": 2026,
+    "type": "architecture process",
+    "year": 2022,
     "status": "evolving",
 
 "keywords": [
-  "architecture",
+  "river architecture",
   "regenerative",
-  "green",
-  "environmental",
-  "spatial",
+  "nature",
+  "process",
+  "ecological",
+  "sustainable",
+  "Te Wahu Awa",
   "ecology",
   "concept",
   "drawing"
 ],
 
-    "image": "./assets/images/AIO revisited 002.webp",
+    "image": "./assets/images/AIO003LP.webp",
 
-    "project": "architecture"
+    "project": "An Intervening Opportunity revisited"
   }
 
    {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
+    "id": "anylisingLP.webp",
+    "title": "La Jaunita site analysis",
 
-"xMin": 38,
+"xMin": 32,
+"xMax": 39,
+
+"yMin": 44,
+"yMax": 52,
+
+"width": 300,
+
+"rotationMin": -5,
+"rotationMax": -2,
+    
+"z": 7,
+    
+    "type": "competition",
+    "year": 2025,
+    "status": "evolving",
+
+"keywords": [
+  "regenerative",
+  "La Jaunita",
+  "process",
+  "ecological",
+  "sustainable",
+  "competition",
+  "ecology",
+  "concept",
+  "conceptual"
+],
+
+    "image": "./assets/images/analisingLP.webp",
+
+    "project": "architecture competition"
+  },
+
+   {
+    "id": "BFDHouse001LP.webp",
+    "title": "Bio Frequency Design House",
+
+"xMin": 48,
+"xMax": 55,
+
+"yMin": 40,
+"yMax": 48,
+
+"width": 300,
+
+"rotationMin": -5,
+"rotationMax": -2,
+    
+"z": 3,
+    
+    "type": "Architecture process",
+    "year": 2026,
+    "status": "evolving",
+
+"keywords": [
+  "geometry",
+  "regenerative",
+  "hexagon",
+  "process",
+  "ecological",
+  "frequency",
+  "house",
+  "design",
+  "concept",
+  "architecture"
+],
+
+    "image": "./assets/images/BFDHouse001LP.webp",
+
+    "project": "architecture process"
+  },
+
+   {
+    "id": "DaydreamingLP.webp",
+    "title": "Daydreaming",
+
+"xMin": 35,
 "xMax": 42,
 
-"yMin": 18,
+"yMin": 47,
 "yMax": 55,
 
-"width": 620,
+"width": 300,
 
 "rotationMin": -5,
 "rotationMax": -2,
@@ -127,36 +206,34 @@
 "z": 10,
     
     "type": "Art",
-    "year": 2014,
+    "year": 2024,
     "status": "resolved",
 
 "keywords": [
   "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
+  "orange",
+  "red",
+  "small canvas",
   "abstract",
   "painting"
 ],
 
-    "image": "./assets/images/Overthinking.webp",
+    "image": "./assets/images/DaydreamingLP.webp",
 
     "project": "art"
   },
 
    {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
+    "id": "EmotionLP.webp",
+    "title": "Emotion",
 
-"xMin": 38,
-"xMax": 42,
+"xMin": 29,
+"xMax": 36,
 
-"yMin": 18,
-"yMax": 55,
+"yMin": 31,
+"yMax": 39,
 
-"width": 620,
+"width": 300,
 
 "rotationMin": -5,
 "rotationMax": -2,
@@ -164,282 +241,188 @@
 "z": 10,
     
     "type": "Art",
-    "year": 2014,
+    "year": 2023,
     "status": "resolved",
 
 "keywords": [
-  "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
-  "abstract",
-  "painting"
+  "pencil",
+  "hand drawing",
+  "life drawing",
+  "cotton rag",
+  "emotion"
 ],
 
-    "image": "./assets/images/Overthinking.webp",
+    "image": "./assets/images/EmotionLP.webp",
+
+    "project": "sketching"
+  },
+
+   {
+    "id": "FlowLP.webp",
+    "title": "Going with the flow",
+
+"xMin": 48,
+"xMax": 55,
+
+"yMin": 38,
+"yMax": 47,
+
+"width": 320,
+
+"rotationMin": -5,
+"rotationMax": -2,
+    
+"z": 6,
+    
+    "type": "Art",
+    "year": 2021,
+    "status": "resolved",
+
+"keywords": [
+  "mixed media",
+  "oil",
+  "orange",
+  "pink",
+  "pencil",
+  "abstract",
+  "abstract"
+],
+
+    "image": "./assets/images/FlowLP.webp",
 
     "project": "art"
   },
 
    {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
+    "id": "HMC001LP.webp",
+    "title": "HMC",
 
-"xMin": 38,
-"xMax": 42,
+"xMin": 22,
+"xMax": 29,
 
-"yMin": 18,
-"yMax": 55,
+"yMin": 34,
+"yMax": 42,
 
-"width": 620,
+"width": 300,
 
 "rotationMin": -5,
 "rotationMax": -2,
     
-"z": 10,
+"z": 8,
+    
+    "type": "Art",
+    "year": 2021,
+    "status": "resolved",
+
+"keywords": [
+  "architecture",
+  "hybrid",
+  "tiny home"
+],
+
+    "image": "./assets/images/HMC001LP.webp",
+
+    "project": "architecture"
+  },
+
+   {
+    "id": "ICULP.webp",
+    "title": "ICU",
+
+"xMin": 30,
+"xMax": 37,
+
+"yMin": 42,
+"yMax": 50,
+
+"width": 300,
+
+"rotationMin": -5,
+"rotationMax": -2,
+    
+"z": 2,
     
     "type": "Art",
     "year": 2014,
     "status": "resolved",
 
 "keywords": [
-  "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
-  "abstract",
-  "painting"
+  "sketching",
+  "pencil",
+  "practice",
+  "eye",
+  "hand drawing"
 ],
 
-    "image": "./assets/images/Overthinking.webp",
+    "image": "./assets/images/ICULP.webp",
 
     "project": "art"
   },
 
    {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
+    "id": "LaJaunitaHouseLP.webp",
+    "title": "La Jaunita Competition",
 
-"xMin": 38,
-"xMax": 42,
+"xMin": 40,
+"xMax": 50,
 
-"yMin": 18,
-"yMax": 55,
+"yMin": 30,
+"yMax": 40,
 
-"width": 620,
+"width": 300,
 
 "rotationMin": -5,
 "rotationMax": -2,
     
-"z": 10,
+"z": 4,
     
-    "type": "Art",
-    "year": 2014,
-    "status": "resolved",
+    "type": "competition",
+    "year": 2025,
+    "status": "evolving",
 
 "keywords": [
-  "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
-  "abstract",
-  "painting"
+  "La Jaunita",
+  "competition",
+  "architecture",
+  "plan",
+  "pre-design"
 ],
 
-    "image": "./assets/images/Overthinking.webp",
+    "image": "./assets/images/LaJaunitaHouseLP.webp",
 
-    "project": "art"
+    "project": "competition"
   },
 
    {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
+    "id": "Modelmaking001LP.webp",
+    "title": "Glenn Murcutt's Ball-Eastaway House",
 
-"xMin": 38,
-"xMax": 42,
+"xMin": 49,
+"xMax": 56,
 
-"yMin": 18,
-"yMax": 55,
+"yMin": 41,
+"yMax": 49,
 
-"width": 620,
-
-"rotationMin": -5,
-"rotationMax": -2,
-    
-"z": 10,
-    
-    "type": "Art",
-    "year": 2014,
-    "status": "resolved",
-
-"keywords": [
-  "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
-  "abstract",
-  "painting"
-],
-
-    "image": "./assets/images/Overthinking.webp",
-
-    "project": "art"
-  },
-
-   {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
-
-"xMin": 38,
-"xMax": 42,
-
-"yMin": 18,
-"yMax": 55,
-
-"width": 620,
+"width": 300,
 
 "rotationMin": -5,
 "rotationMax": -2,
     
-"z": 10,
+"z": 4,
     
-    "type": "Art",
-    "year": 2014,
+    "type": "model making",
+    "year": 2011,
     "status": "resolved",
 
 "keywords": [
-  "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
-  "abstract",
-  "painting"
+  "model making",
+  "Ball-Eastaway House",
+  "Glenn Murcutt"
 ],
 
-    "image": "./assets/images/Overthinking.webp",
+    "image": "./assets/images/Modelmaking001LP.webp",
 
-    "project": "art"
-  },
-
-   {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
-
-"xMin": 38,
-"xMax": 42,
-
-"yMin": 18,
-"yMax": 55,
-
-"width": 620,
-
-"rotationMin": -5,
-"rotationMax": -2,
-    
-"z": 10,
-    
-    "type": "Art",
-    "year": 2014,
-    "status": "resolved",
-
-"keywords": [
-  "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
-  "abstract",
-  "painting"
-],
-
-    "image": "./assets/images/Overthinking.webp",
-
-    "project": "art"
-  },
-
-   {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
-
-"xMin": 38,
-"xMax": 42,
-
-"yMin": 18,
-"yMax": 55,
-
-"width": 620,
-
-"rotationMin": -5,
-"rotationMax": -2,
-    
-"z": 10,
-    
-    "type": "Art",
-    "year": 2014,
-    "status": "resolved",
-
-"keywords": [
-  "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
-  "abstract",
-  "painting"
-],
-
-    "image": "./assets/images/Overthinking.webp",
-
-    "project": "art"
-  },
-
-   {
-    "id": "Overthinking.webp",
-    "title": "Alice Thinking Series - Overthinking",
-
-"xMin": 38,
-"xMax": 42,
-
-"yMin": 18,
-"yMax": 55,
-
-"width": 620,
-
-"rotationMin": -5,
-"rotationMax": -2,
-    
-"z": 10,
-    
-    "type": "Art",
-    "year": 2014,
-    "status": "resolved",
-
-"keywords": [
-  "acrylic on canvas",
-  "Alice Thinking Series",
-  "green",
-  "blue",
-  "green",
-  "900 x 900",
-  "abstract",
-  "painting"
-],
-
-    "image": "./assets/images/Overthinking.webp",
-
-    "project": "art"
+    "project": "model making"
   },
   
 ]
