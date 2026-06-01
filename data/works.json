@@ -1,38 +1,38 @@
 [
   {
-    "id": "Jetty.webp",
-    "title": "Jetty",
+    "id": "AIO001LP.webp",
+    "title": "AIO",
 
-"xMin": 14,
-"xMax": 40,
+"xMin": 35,
+"xMax": 42,
 
-"yMin": 10,
-"yMax": 50,
+"yMin": 38,
+"yMax": 46,
 
-"width": 420,
+"width": 300,
 
 "rotationMin": 2,
 "rotationMax": 5,
     
 "z": 5,
     
-    "type": "Photography",
+    "type": "Regenerative Architecture",
     "year": 2022,
-    "status": "resolved",
+    "status": "ongoing",
 
 "keywords": [
-  "black and white",
-  "wharf",
+  "river architecture",
+  "regenerative",
   "nature",
-  "boat",
-  "sea",
-  "Herne Bay",
-  "water"
+  "ecological",
+  "sustainable",
+  "Te Wahu Awa",
+  "Pre Design"
 ],
 
-    "image": "./assets/images/Jetty.webp",
+    "image": "./assets/images/AIO001LP.webp",
 
-    "project": "photography"
+    "project": "Architecture"
   },
 
   {
