@@ -4,17 +4,17 @@
     "title": "An Intervening Opportunity revisited",
 
 "xMin": 35,
-"xMax": 42,
+"xMax": 32,
 
-"yMin": 38,
-"yMax": 46,
+"yMin": 28,
+"yMax": 36,
 
 "width": 300,
 
 "rotationMin": 2,
 "rotationMax": 5,
     
-"z": 5,
+"z": 1,
     
     "type": "Architecture process",
     "year": 2022,
@@ -39,18 +39,18 @@
     "id": "ProcessLP.webp",
     "title": "competition designing",
 
-"xMin": 47,
-"xMax": 54,
+"xMin": 19,
+"xMax": 34,
 
-"yMin": 39,
-"yMax": 47,
+"yMin": 20,
+"yMax": 38,
 
-"width": 300,
+"width": 280,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": 3,
+"rotationMax": 8,
     
-"z": 5,
+"z": 2,
     
     "type": "competition",
     "year": 2025,
@@ -80,12 +80,12 @@
 "yMin": 39,
 "yMax": 47,
 
-"width": 300,
+"width": 280,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": 2,
+"rotationMax": 5,
     
-"z": 6,
+"z": 3,
     
     "type": "photography",
     "year": 2023,
@@ -115,10 +115,10 @@
 
 "width": 300,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": 1,
+"rotationMax": 3,
     
-"z": 10,
+"z": 4,
     
     "type": "Architecture process",
     "year": 2022,
@@ -170,8 +170,7 @@
   "sustainable",
   "Te Wahu Awa",
   "ecology",
-  "concept",
-  "drawing"
+  "concept"
 ],
 
     "image": "./assets/images/AIO003LP.webp",
@@ -183,18 +182,18 @@
     "id": "analysingLP.webp",
     "title": "La Juanita site analysis",
 
-"xMin": 32,
-"xMax": 39,
+"xMin": 16,
+"xMax": 24,
 
-"yMin": 44,
-"yMax": 52,
+"yMin": 20,
+"yMax": 28,
 
 "width": 300,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": -3,
+"rotationMax": -0,
     
-"z": 7,
+"z": 5,
     
     "type": "competition",
     "year": 2025,
@@ -221,18 +220,18 @@
     "id": "BFDHouse001LP.webp",
     "title": "Bio Frequency Design House",
 
-"xMin": 48,
-"xMax": 55,
+"xMin": 58,
+"xMax": 65,
 
-"yMin": 40,
-"yMax": 48,
+"yMin": 50,
+"yMax": 58,
 
 "width": 300,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": -3,
+"rotationMax": 2,
     
-"z": 3,
+"z": 6,
     
     "type": "Architecture process",
     "year": 2026,
@@ -268,10 +267,10 @@
 
 "width": 300,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": -2,
+"rotationMax": 4,
     
-"z": 10,
+"z": 7,
     
     "type": "Art",
     "year": 2024,
@@ -295,16 +294,16 @@
     "id": "EmotionLP.webp",
     "title": "Emotion",
 
-"xMin": 29,
-"xMax": 36,
+"xMin": 22,
+"xMax": 34,
 
-"yMin": 31,
-"yMax": 39,
+"yMin": 29,
+"yMax": 37,
 
 "width": 300,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": 5,
+"rotationMax": 3,
     
 "z": 10,
     
@@ -335,12 +334,12 @@
 "yMin": 38,
 "yMax": 47,
 
-"width": 320,
+"width": 300,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": -3,
+"rotationMax": 1,
     
-"z": 6,
+"z": 8,
     
     "type": "Art",
     "year": 2021,
@@ -365,16 +364,16 @@
     "id": "HMC001LP.webp",
     "title": "HMC",
 
-"xMin": 22,
-"xMax": 29,
+"xMin": 52,
+"xMax": 62,
 
-"yMin": 34,
-"yMax": 42,
+"yMin": 44,
+"yMax": 58,
 
 "width": 300,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": 4,
+"rotationMax": 2,
     
 "z": 8,
     
@@ -397,16 +396,16 @@
     "id": "ICULP.webp",
     "title": "ICU",
 
-"xMin": 30,
-"xMax": 37,
+"xMin": 10,
+"xMax": 27,
 
-"yMin": 42,
-"yMax": 50,
+"yMin": 15,
+"yMax": 22,
 
 "width": 300,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": 6,
+"rotationMax": 2,
     
 "z": 2,
     
@@ -431,16 +430,16 @@
     "id": "LaJuanitaHouseLP.webp",
     "title": "La Juanita Competition",
 
-"xMin": 40,
-"xMax": 50,
+"xMin": 67,
+"xMax": 78,
 
-"yMin": 30,
-"yMax": 40,
+"yMin": 61,
+"yMax": 76,
 
 "width": 300,
 
-"rotationMin": -5,
-"rotationMax": -2,
+"rotationMin": -6,
+"rotationMax": -3,
     
 "z": 4,
     
@@ -465,11 +464,11 @@
     "id": "Modelmaking001LP.webp",
     "title": "Glenn Murcutt's Ball-Eastaway House",
 
-"xMin": 49,
-"xMax": 56,
+"xMin": 66,
+"xMax": 77,
 
-"yMin": 41,
-"yMax": 49,
+"yMin": 55,
+"yMax": 66,
 
 "width": 300,
 
