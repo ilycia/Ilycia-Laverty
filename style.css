@@ -247,6 +247,8 @@ padding-bottom: 10px;
 
 #dropdown-menu {
 
+z-index: 10000;  
+
 position: absolute;
 
 top: calc(100% - 4px);
