@@ -35,6 +35,74 @@
     "project": "Regenerative Architecture"
   },
 
+     {
+    "id": "ProcessLP.webp",
+    "title": "competition designing",
+
+"xMin": 47,
+"xMax": 54,
+
+"yMin": 39,
+"yMax": 47,
+
+"width": 300,
+
+"rotationMin": -5,
+"rotationMax": -2,
+    
+"z": 5,
+    
+    "type": "competition",
+    "year": 2025,
+    "status": "evolving",
+
+"keywords": [
+  "process",
+  "river house",
+  "competition",
+  "plans",
+  "hand drawing"
+],
+
+    "image": "./assets/images/ProcessLP.webp",
+
+    "project": "competition"
+       
+  },
+  
+   {
+    "id": "ReflectLP.webp",
+    "title": "Len Lye Centre",
+
+"xMin": 47,
+"xMax": 54,
+
+"yMin": 39,
+"yMax": 47,
+
+"width": 300,
+
+"rotationMin": -5,
+"rotationMax": -2,
+    
+"z": 6,
+    
+    "type": "photography",
+    "year": 2023,
+    "status": "resolved",
+
+"keywords": [
+  "architecture",
+  "Len Lye Centre",
+  "photography"
+],
+
+    "image": "./assets/images/ReflectLP.webp",
+
+    "project": "photography"
+       
+  },
+
   {
     "id": "AIO002LP.webp",
     "title": "An Intervening Opportunity revisited",
