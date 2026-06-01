@@ -177,10 +177,10 @@
     "image": "./assets/images/AIO003LP.webp",
 
     "project": "An Intervening Opportunity revisited"
-  }
+  },
 
    {
-    "id": "anylisingLP.webp",
+    "id": "analysingLP.webp",
     "title": "La Juanita site analysis",
 
 "xMin": 32,
@@ -212,7 +212,7 @@
   "conceptual"
 ],
 
-    "image": "./assets/images/analisingLP.webp",
+    "image": "./assets/images/analysingLP.webp",
 
     "project": "architecture competition"
   },
