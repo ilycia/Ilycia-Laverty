@@ -171,15 +171,19 @@ body {
 
 #menu {
 
-  color: rgba(255,255,255,0.92);
+position: relative;
 
-  font-size: 18px;
+color: rgba(255,255,255,0.92);
 
-  cursor: pointer;
+font-size: 18px;
 
-  user-select: none;
+cursor: pointer;
 
-  margin-left: 12px;
+user-select: none;
+
+margin-left: 12px;
+
+padding-bottom: 12px;
 
 }
 
@@ -236,14 +240,6 @@ body {
 }
 
 /* DROPDOWN MENU */
-
-#menu {
-
-position: relative;
-
-padding-bottom: 10px;
-
-}
 
 #dropdown-menu {
 
