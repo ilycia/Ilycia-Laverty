@@ -266,15 +266,6 @@ background: rgba(20,20,20,0.82);
 
 backdrop-filter: blur(14px);
 
-}
-
-#menu:hover #dropdown-menu,
-#dropdown-menu:hover {
-
-display: flex;
-
-}
-
 #dropdown-menu a {
 
 color: white;
@@ -290,5 +281,11 @@ letter-spacing: 0.04em;
 #dropdown-menu a:hover {
 
 opacity: 0.7;
+
+#dropdown-menu.open {
+
+display: flex;
+
+} 
 
 }
