@@ -129,3 +129,16 @@ enableDrag(toolbox);
 /* START */
 
 loadWorks();
+
+/* MENU */
+
+const menu = document.getElementById("menu");
+
+const dropdownMenu =
+  document.getElementById("dropdown-menu");
+
+menu.addEventListener("click", () => {
+
+  dropdownMenu.classList.toggle("open");
+
+});
