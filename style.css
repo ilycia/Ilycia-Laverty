@@ -268,7 +268,8 @@ backdrop-filter: blur(14px);
 
 }
 
-#menu:hover #dropdown-menu {
+#menu:hover #dropdown-menu,
+#dropdown-menu:hover {
 
 display: flex;
 
