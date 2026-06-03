@@ -327,3 +327,29 @@ margin-bottom: 24px;
 font-size: 17px;
 
 }
+
+#project-area {
+
+  padding: 60px;
+
+}
+
+.project-plate {
+
+  width: 420px;
+
+}
+
+.project-plate img {
+
+  width: 100%;
+
+  display: block;
+
+}
+
+.project-plate a {
+
+  text-decoration: none;
+
+}  
