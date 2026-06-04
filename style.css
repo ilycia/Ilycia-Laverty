@@ -353,3 +353,39 @@ font-size: 17px;
   text-decoration: none;
 
 }  
+
+  #project-area {
+
+  position: relative;
+
+  width: 100vw;
+  height: 100vh;
+
+}
+
+.project-link {
+
+  position: absolute;
+
+  top: 260px;
+  left: 280px;
+
+}
+
+.project-plate {
+
+  width: 260px;
+
+  transform: rotate(-3deg);
+
+  transition: transform 0.2s ease;
+
+}
+
+.project-plate:hover {
+
+  transform:
+    rotate(-3deg)
+    scale(1.03);
+
+}
